@@ -13,8 +13,7 @@ h1 {
   background-position: center right;
 }
 
-.card-img-overlay{
-  background-image: url(./images/card22.svg);
+.small-card {
+  height: 435px;
+  width: 369px;
 }
-
-
